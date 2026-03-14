@@ -1,7 +1,7 @@
 const CACHE_NAME = 'hiperaxn-ella-v1';
 
 const URLS_TO_CACHE = [
-  './HIPERAXN_ella.html',
+  './HIPERAX-ella.html',
   './manifest-ella.json',
   './icon-ella-192.png',
   './icon-ella-512.png',
