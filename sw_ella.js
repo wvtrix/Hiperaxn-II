@@ -1,8 +1,8 @@
-const CACHE_NAME = 'hiperaxn-ella-v1';
+const CACHE_NAME = 'hiperaxn_ella-v1';
 
 const URLS_TO_CACHE = [
-  './HIPERAX-ella.html',
-  './manifest-ella.json',
+  './HIPERAXN_ella.html',
+  './manifest_ella.json',
   './icon-ella-192.png',
   './icon-ella-512.png',
   'https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,700;0,800;0,900;1,700&family=Outfit:wght@300;400;500;600;700&display=swap'
