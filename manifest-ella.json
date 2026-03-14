@@ -2,7 +2,7 @@
   "name": "HIPERAXN",
   "short_name": "HIPERAXN",
   "description": "Sistema operativo de entrenamiento e hipertrofia",
-  "start_url": "./HIPERAXN_ella.html",
+  "start_url": "./HIPERAXN-ella.html",
   "display": "standalone",
   "background_color": "#0B0813",
   "theme_color": "#070A0F",
